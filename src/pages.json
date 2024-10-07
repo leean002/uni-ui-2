@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "情绪小狐狸"
+      }
+    },
+    {
+      "path": "pages/emotion-input/emotion-input",
+      "style": {
+        "navigationBarTitleText": "情绪输入"
+      }
+    },
+    {
+      "path": "pages/analysis-result/analysis-result",
+      "style": {
+        "navigationBarTitleText": "分析结果"
+      }
+    },
+    {
+      "path": "pages/task-list/task-list",
+      "style": {
+        "navigationBarTitleText": "任务列表"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "情绪小狐狸",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
